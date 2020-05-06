@@ -8,6 +8,10 @@
 
 ![Example of running http-server](https://github.com/http-party/http-server/raw/master/screenshots/public.png)
 
+## Forked to include support for apple-app-site-association files
+
+In order for Apple to read the apple-app-site-association file, we must send it as application/json without the .json file extension
+
 ## Installation:
 
 #### Globally via `npm`
